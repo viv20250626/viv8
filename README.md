@@ -59,4 +59,4 @@ Telegram频道传送门：集合各类精彩Telegram频道入口，涵盖新闻�
 
 黑料大事记通过时间线清晰地梳理娱乐圈与网红圈的重大爆料事件，从初起到发酵再到结局，内容详尽真实。它不仅记录每一次舆论风暴的发生，也让吃瓜群众轻松回顾历史上的重大事件，是了解娱乐圈内幕的宝贵工具。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/viv20250626/viv8）</span>
